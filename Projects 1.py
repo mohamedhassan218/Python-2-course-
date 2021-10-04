@@ -1,3 +1,4 @@
+#Battleship game 
 from random import randint
 import sys
 

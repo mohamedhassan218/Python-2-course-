@@ -1,3 +1,3 @@
 # Python-2-course-
-The projects from Python 2 course on codecademy.com
+The projects in Python 2 course from codecademy.com
 

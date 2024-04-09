@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python 2 Course
 
 This was my first time to write code and push it to GitHub. This code in this repo was some simple projects from Python 2 [Course](https://www.codecademy.com/learn/learn-python) from CodeCademy.
@@ -12,3 +13,8 @@ This was my first time to write code and push it to GitHub. This code in this re
 
 
 Feel free to take the code, customize it and try different ideas.
+=======
+# Python-2-course-
+The projects in Python 2 course from codecademy.com
+
+>>>>>>> 31a5ff884f53822aba8c3f1332785117637d5a8a
